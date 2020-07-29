@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7255e5b2-ad33-46ef-8338-4e87265f60a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/arduino_rf/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fFs02wSC57uZRoPzONc4ErRNsQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Arduino_basic" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Arduino_Pager\arduino_rf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Arduino_Pager\arduino_rf" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7255e5b2-ad33-46ef-8338-4e87265f60a8" name="Default Changelist" comment="" />
+      <created>1595824948213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595824948213</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hello~">
+      <created>1595825023320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595825023320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello~" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello~" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="-964" key="CommitChangelistDialog2" timestamp="1595825022480">
+      <screen x="3" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="580" y="-964" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595825022480" />
+    <state x="2660" y="295" key="FileChooserDialogImpl" timestamp="1596000232489">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596000232489" />
+    <state x="555" y="-807" key="Vcs.Push.Dialog.v2" timestamp="1595825027395">
+      <screen x="3" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="555" y="-807" key="Vcs.Push.Dialog.v2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595825027395" />
+  </component>
+</project>
