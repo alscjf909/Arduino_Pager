@@ -1,5 +1,5 @@
 const int swit =12;
-const int led = 11;
+const int led = 10;
 void setup(){
     pinMode(swit, INPUT_PULLUP);
     pinMode(led, OUTPUT);

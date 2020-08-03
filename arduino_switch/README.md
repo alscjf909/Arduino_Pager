@@ -84,7 +84,7 @@ void loop(){
 * 실험 2. 스위치를 통해 LED 켜고 끄기 *　  
 ```
 const int swit =12;
-const int led = 11; // LED 핀설정
+const int led = 10; // LED 핀설정
 void setup(){
     pinMode(swit, INPUT_PULLUP); // swit 핀 INPUT_PULLUP으로 설정
     pinMode(led, OUTPUT);  // LED 핀 OUTPUT으로 설정
