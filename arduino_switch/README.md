@@ -50,10 +50,28 @@ void setup() {
 ***
 아두이노, 브레드보드, 점퍼선, LED 2개, 저항 2개, 퓌시버튼 스위치 2개  
 　  
-실험 1. 스위치를 통해 시리얼 모니터에 데이터 입력 눈으로 확인하기
+*실험 1. 스위치를 통해 시리얼 모니터에 데이터 입력 눈으로 확인하기*
 　  
 <img width = "750" height = "500" src="img/실험1.PNG" alt="Prunus" title='실험2'>  
 　  
-실험 2. 스위치를 통해 LED 켜고 끄기  
+*실험 2. 스위치를 통해 LED 켜고 끄기*  
 　  
 <img width = "60%" height = "60%" src="img/실험2.PNG" alt="Prunus" title='실험2'>   
+　  
+　  
+### 소스 코드  
+
+```
+const int swit = 12;
+void setup(){
+    pinMode(swit, INPUT_PULLUP);
+    Serial.begin(9600);
+
+    
+}
+void loop(){
+    int button = digitalRead(swit);
+    Serial.println(button);
+    delay(1);
+}
+```
