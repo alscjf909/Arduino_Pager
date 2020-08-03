@@ -52,8 +52,8 @@ void setup() {
 　  
 실험 1. 스위치를 통해 시리얼 모니터에 데이터 입력 눈으로 확인하기
 　  
-<img width = "500" src="img/실험1.PNG" alt="Prunus" title='실험2'>  
+<img width = "750", height="500" src="img/실험1.PNG" alt="Prunus" title='실험2'>  
 　  
 실험 2. 스위치를 통해 LED 켜고 끄기  
 　  
-![실험2](img/실험2.PNG)  
+<img width = "500" src="img/실험1.PNG" alt="Prunus" title='실험2'>   
