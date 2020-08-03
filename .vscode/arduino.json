@@ -1,5 +1,5 @@
 {
-    "sketch": "arduino_switch\\arduino_switch.ino",
+    "sketch": "arduino_switch\\arduino_switch_led\\arudion_switch_led.ino",
     "board": "arduino:avr:uno",
     "port": "COM7",
     "programmer": "AVRISP mkII"

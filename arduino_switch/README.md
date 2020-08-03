@@ -60,6 +60,10 @@ void setup() {
 　  
 　  
 ### 소스 코드  
+  
+　  
+* 실험 1. 스위치를 통해 시리얼 모니터에 데이터 입력 눈으로 확인하기 *
+
 
 ```
 const int swit = 12;
@@ -73,5 +77,30 @@ void loop(){
     int button = digitalRead(swit);
     Serial.println(button);
     delay(1);
+}
+```  
+
+　  
+* 실험 2. 스위치를 통해 LED 켜고 끄기 *　  
+```
+const int swit =12;
+const int led = 11; // LED 핀설정
+void setup(){
+    pinMode(swit, INPUT_PULLUP); // swit 핀 INPUT_PULLUP으로 설정
+    pinMode(led, OUTPUT);  // LED 핀 OUTPUT으로 설정
+    Serial.begin(9600);
+
+    
+}
+void loop(){
+    int button = digitalRead(swit); // 스위치로 부터 받은 값 button 에 저장
+    Serial.println(button); // button 상수에 저장된 값 출력
+    if(button == HIGH)   // 만약 스위치를 누르면 ON 아니면 OFFF
+    {
+        digitalWrite(11,HIGH);
+        delay(1000);
+        digitalWrite(11,LOW);  // 스위치 초기화
+    }
+
 }
 ```
