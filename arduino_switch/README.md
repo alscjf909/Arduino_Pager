@@ -56,4 +56,4 @@ void setup() {
 　  
 실험 2. 스위치를 통해 LED 켜고 끄기  
 　  
-<img width = "500" src="img/실험1.PNG" alt="Prunus" title='실험2'>   
+<img width = "750" height = "500" src="img/실험2.PNG" alt="Prunus" title='실험2'>   
