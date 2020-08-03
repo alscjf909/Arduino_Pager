@@ -1,0 +1,6 @@
+{
+    "sketch": "arduino_switch\\arduino_switch.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM7",
+    "programmer": "AVRISP mkII"
+}
